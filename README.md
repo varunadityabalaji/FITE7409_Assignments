@@ -1,4 +1,4 @@
-# Blockchain_CourseWork
+# Blockchain_Coursework
 ## Assignment 1
 Questions:
 <ol>
